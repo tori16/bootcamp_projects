@@ -15,4 +15,4 @@ we learn 10 sprints during 4 month program.
 - Essential Python for Data Analyst
 - Dashboard
 
-Badges: link ที่ไปยัง ใบ cer ของเรา
+Badges: link 
