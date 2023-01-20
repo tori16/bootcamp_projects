@@ -1,6 +1,6 @@
 # Bootcamp Projects
 
-Data science bootcamp with `adToy`
+Data science bootcamp with `DataRockie`
 
 we learn 10 sprints during 4 month program. 
 
@@ -15,4 +15,4 @@ we learn 10 sprints during 4 month program.
 - Essential Python for Data Analyst
 - Dashboard
 
-Badges: link 
+Badges: https://badgr.com/public/assertions/BkkU_ClMSX2cDOl_SrufSw
