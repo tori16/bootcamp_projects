@@ -2,6 +2,8 @@
 
 Data science bootcamp with `DataRockie`
 
+Badges: https://badgr.com/public/assertions/BkkU_ClMSX2cDOl_SrufSw
+
 we learn 10 sprints during 4 month program. 
 
 - Spreadsheets
@@ -14,5 +16,3 @@ we learn 10 sprints during 4 month program.
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
-
-Badges: https://badgr.com/public/assertions/BkkU_ClMSX2cDOl_SrufSw
